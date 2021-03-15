@@ -1,0 +1,2 @@
+# Seidel
+ Método de Seidel
